@@ -1,0 +1,20 @@
+{
+  "name": "weather-complete",
+  "version": "1.0.0",
+  "description": "complete weather website",
+  "main": "jsf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKSHIT GUPTA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "gsap": "^3.10.4",
+    "hbs": "^4.2.0",
+    "jsdom": "^19.0.0",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,150 @@
+*{
+  margin: 0;
+overflow-y: hidden;
+}
+.d1{
+
+padding-top:35px;
+  height: 100vh;
+  width:100%;
+ background-image: linear-gradient(to right bottom, #12053b, #00183a, #001d26, #041c16, #1a1b19);
+}
+.d2{
+margin:  auto 0 auto 230px;
+padding: 5px;
+overflow-x: hidden;
+  height: 90vh;
+  width:90vh;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);/*OFFSET-X,OFFSET-Y,BLUR RADIUS)*/
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.d3{
+height: 100vh;
+width:60vh;
+background: rgba(255, 255, 255, 0.2);
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);/*OFFSET-X,OFFSET-Y,BLUR RADIUS)*/
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+position: absolute;
+right:0;
+bottom:0vh;
+overflow-x: hidden;
+
+
+
+
+}
+.we1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:3rem;
+  color: #fff;
+  position:absolute;
+  top:20px;
+  left:10px;
+}
+.p1{
+  position: relative;
+  top:55px;
+  left:20px;
+  color: #FDF6EC;
+  font-family: 'Rubik Wet Paint', cursive;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+.p2{
+  position: relative;
+  top:75px;
+  left:20px;
+font-size: 1.1rem;
+
+
+
+}
+
+  .i1[type=text] {
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid #000000;
+      padding: 2px 5px;
+      position: absolute;
+      top:240px;
+      left:12px;
+      width: 75%;
+      font-size: 1.5rem;
+      color:#fff;
+      outline: none;
+  }
+
+.b1{
+  height:50px;
+  width:50px;
+  background-color:#041c16;
+  position: absolute;
+  top:220px;
+  right:20px;
+}
+.fa-brands{
+  color: #fff;
+font-size: 1.54rem;
+position: sticky;
+}
+.hea{
+text-align: center;
+position: relative;
+top:200px;
+font-size:3rem;
+color: #062C30;
+
+font-family: 'Rubik Wet Paint', cursive;
+}
+.finh1{
+  font-size:1.5 rem;
+  color:#fff;
+
+  text-transform: uppercase;
+}
+.finh2{
+  font-size: 7rem;
+padding-top:-5%;
+text-align: center;
+color: #FCFFE7;
+position: relative;
+bottom: 20px;
+}
+.i6{
+width:190px;
+display: flex;
+margin: 0 auto;
+
+}
+.s4{
+  font-size: 40px;
+  position: relative;
+  bottom: 50px;
+}
+.finh4{
+font-size:1.8rem;
+color: #F5F5F5;
+position: relative;
+bottom:30px;
+left: 15px;
+}
+.lni{
+  margin: 15px;
+  position: relative;
+  top:16px;
+}
+.mak{
+  position: absolute;
+  bottom: 12px;
+  left: 140px;
+  font-family: 'Amatic SC', cursive;
+  font-size:0.8rem;
+  color:#FFF2F9;
+}
