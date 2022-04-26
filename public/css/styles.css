@@ -148,3 +148,57 @@ left: 15px;
   font-size:0.8rem;
   color:#FFF2F9;
 }
+@media (max-width:1227px) {
+  .d3{
+width: 40vh;
+
+
+  }
+
+  .d2{
+    width: 60vh;
+  }
+}
+@media (max-width:902px) {
+  .d3{
+    width:20vh;
+
+  }
+  .d2{
+    width:40vh;
+  }
+  .finh1,.finh4{
+    font-size: 1rem;
+  }
+  .finh2{
+    font-size: 3rem
+  }
+  .mak{
+  visibility: visible;
+  }
+
+}
+@media (max-width:715px) {
+  .d2{
+position: absolute;
+width: 50vh;
+margin: 0;
+left: 5px;
+
+}
+.d3{
+  width: 45vh;
+}
+}
+
+@media (max-width:644px){
+.d2{
+  width: 43vh;
+}
+.d3{
+  width:39vh;
+}
+.we1{
+  font-size:2rem
+}
+}

@@ -47,7 +47,9 @@ mint:min
 
 
 }
-
+else if(response.statusCode!=200){
+  res.redirect("/");
+}
 
 
 
