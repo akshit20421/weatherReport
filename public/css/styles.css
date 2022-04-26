@@ -202,3 +202,18 @@ left: 5px;
   font-size:2rem
 }
 }
+@media (max-width:520px){
+.d3{
+  width:30vh;
+}
+.d2{
+  width:35vh;
+}
+.hea{
+  font-size:1.5rem;
+}
+.finh1,.finh4{
+  font-size: 0.9rem;
+}
+
+}
